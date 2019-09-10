@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Aztlan</title>
+    <link>/</link>
+    <description>Recent content in Home on Aztlan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appidi Abhinav Reddy</title>
+      <link>/team/peter-van-eijk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/peter-van-eijk/</guid>
+      <description> Offers strategic and business leadership to our organisation using his management, operations and technical expertise. With deep understanding of business process along with technology, he has helped multiple start-ups in business development, management and operations roles. Experience in end-to-end hardware and software development.  </description>
+    </item>
+    
+    <item>
+      <title>Suhas Darsi</title>
+      <link>/team/sage-kirk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/sage-kirk/</guid>
+      <description> BTech &amp;amp; MS in Electronics &amp;amp; Communication Engineering Experience in operations business strategy, marketing and business development. Experience in Growth Hacking and Media Management  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Company</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We at Aztlan are striving hard to help our customers discover their customers in a way that has never been seen, We also provide means to find new customers which fit their bill and discover right product market fit. Our APIs are industry leaders in customer discovery and customer digital fingerprinting.</description>
+    </item>
+    
+  </channel>
+</rss>
